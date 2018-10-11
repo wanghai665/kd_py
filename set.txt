@@ -1,0 +1,1 @@
+{'interface': 'pcie', 'link_name': '', 'run_type': '密码字典加随机MAC', 'run_mode': '随机时间', 'min_time': '20', 'max_time': '50', 'min_flow': '100', 'max_flow': '1000', 'uuid': '', 'phone_id': ''}
